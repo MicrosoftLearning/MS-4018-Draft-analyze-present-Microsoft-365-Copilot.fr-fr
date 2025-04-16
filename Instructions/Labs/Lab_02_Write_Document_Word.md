@@ -11,7 +11,7 @@ Tout au long de ce labo, nous allons créer des prompts Microsoft 365 Copilot 
 
 [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 
-#### Exercice 1 - Importer des notes (facultatif)
+#### Exercice 1 (facultatif) : importer des notes 
 
 1. Ouvrez Microsoft Word et créez un document.
 
@@ -40,8 +40,10 @@ Nous allons créer un rapport de projet à l’aide de l’analyse du marché qu
 
 1. Entrez l’invite suivante :
 
-    +++Crée un rapport de projet basé sur le contenu du rapport /Market Analysis Report for Mystic Spice Premium Chai Tea.docx. Inclus un résumé, une introduction, des objectifs de projet et une discussion.+++
+    +++Crée un rapport de projet comprenant un résumé, une introduction, des objectifs de projet et une discussion. Utilise le document associé comme ressource de contenu. /Market Analysis Report for Mystic Spice Premium Chai Tea.docx.+++
 
+1. Ajoutez la référence de document à votre invite en entrant manuellement une barre oblique suivie du nom du document : **/Promotion Plan for Chai Tea in Latin America.docx**. Vous pouvez également sélectionner le fichier dans la liste déroulante une fois qu’il est disponible dans OneDrive.
+   
 1. Passez en revue le contenu et sélectionnez **Conserver**.
 
 1. Lorsque vous examinez le contenu de votre document, vous pouvez constater que certaines parties doivent être modifiées ou réécrites. La section Description du produit semble être assez courte et technique. Nous allons modifier le texte afin de le rendre plus attrayant pour nos lecteurs.
@@ -91,7 +93,7 @@ Lorsque vous terminez votre document, vous souhaitez vous assurer que vos points
 
     +++Résume ce document. Met en évidence les trois principaux points soulevés.+++
 
-1. Passez en revue le résumé généré et sélectionnez **Insérer** si vous souhaitez inclure le résumé dans votre document.
+1. Passez en revue le résumé généré et sélectionnez **Insérer** si vous souhaitez inclure le résumé dans votre document. Vous pouvez également mettre en surbrillance n’importe quelle partie du texte, puis la copier et la coller dans votre document.
 
 > [!IMPORTANT]
 > Le texte généré par Copilot est inséré à l’emplacement de votre curseur dans le document. Assurez-vous d’avoir parcouru le document du début à la fin avant d’insérer le contenu.

@@ -6,12 +6,12 @@ Imaginez que vous êtes responsable chez Contoso. Votre équipe s’appuie sur u
 
 1. Ouvrez Microsoft Teams en accédant à l’URL suivante : [https://teams.microsoft.com](https://teams.microsoft.com).
 
-1. Pour commencer, créez un canal dans la conversation de votre équipe pour cette conversation. Sélectionnez **Nouveau canal** dans le menu déroulant Conversation.
+1. Pour commencer, créez une équipe dans la conversation de votre équipe pour cette conversation. Sélectionnez **Nouvelle équipe** dans le menu déroulant Conversation.
 
-    - Ajoutez le canal à une équipe : **Personnes & culture**
-    - Nom du canal : +++Contoso Connect+++
+    - Ajoutez l’équipe : +++Personnes et culture+++
     - Description : laissez vide
-    - Type de canal : **Privé**
+    - Type d’équipe : **privée**
+    - Nom du canal : +++Contoso Connect+++
     - Ajouter des membres : sélectionnez **Ignorer**
 
 1. Sélectionnez **Démarrer une publication** pour ouvrir la fenêtre de conversation.

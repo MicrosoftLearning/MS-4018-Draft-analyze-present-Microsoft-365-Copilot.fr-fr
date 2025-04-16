@@ -49,7 +49,7 @@ Maintenant que vous avez une idée des questions potentielles, réfléchissez à
 
 1. Dans le même Copilot Chat, demandez à Copilot :
 
-    +++Rédige des réponses aux questions suivantes : [liste des questions].+++
+    +++Rédige des réponses aux questions suivantes : [copiez la liste des questions et copiez-la ici].+++
 
     Étant donné que Copilot Chat est une expérience itérative, elle prend en compte le contexte des interactions de conversation précédentes dans la même fenêtre.
 
@@ -59,17 +59,21 @@ Maintenant que vous avez une idée des questions potentielles, réfléchissez à
 
 Ces réponses sont excellentes, et vous vous sentez confiant avant votre entretien. Nous allons maintenant créer une source unique de vérité à laquelle nous pouvons nous référer ultérieurement. Utilisez Copilot pour Word afin de compiler les questions et réponses dans un document FAQ.
 
-1. Ouvrez Microsoft Word et créez un document.
+1. Dans la même fenêtre Copilot Chat, demandez à Copilot : 
 
-1. Dans le ruban Accueil, sélectionnez l’icône Copilot. Le volet Copilot s’ouvre à droite de l’écran.
+    +++Crée un document Word avec cette sortie.+++
 
-1. Entrez l’invite suivante :
+    Copilot génère un nouveau document Word intitulé **FAQ Document**.
 
-    +++Crée un document FAQ avec les questions et réponses suivantes : [liste des questions et réponses copiées depuis Copilot Chat].+++
+1. Ouvrez ce document pour le passer en revue.
 
-1. Passez en revue et mettez en forme le document en fonction de vos besoins.
+1. Activez la modification pour vérifier et mettre à jour le document si nécessaire. 
 
-#### Exercice 6 - Envoyer un e-mail de remerciement à l’aide de Copilot pour Outlook
+1. Sélectionnez **Fichier > Enregistrer sous**. Parcourez et accédez à votre dossier OneDrive.
+
+1. Enregistrez le document en tant que **FAQ Document**.
+   
+#### Exercice 6 (facultatif) : envoyer un e-mail de remerciement à l’aide de Copilot pour Outlook
 
 1. Ouvrez Outlook et sélectionnez **Nouvel e-mail** pour commencer à composer votre note de remerciement.
 

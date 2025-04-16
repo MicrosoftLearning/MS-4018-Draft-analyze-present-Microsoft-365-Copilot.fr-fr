@@ -26,6 +26,8 @@ Pour avoir une idée des tendances du marché, vous devez d’abord comprendre l
 
 1. Sélectionnez **Ajouter à une nouvelle feuille** pour inclure ces données dans votre classeur Excel.
 
+1. Passez en revue le tableau. Lorsque vous avez terminé, sélectionnez **Revenir aux données** pour revenir à la feuille 1.
+
 #### Exercice 2 - Identifier les tendances des ventes
 
 En tant que responsable des ventes, vous devez identifier les tendances des données de vente pour prendre des décisions éclairées. Examinons le chiffre d’affaires des ventes de chaï au cours de l’année et recherchons des comportements ou tendances qui peuvent aider à améliorer les stratégies commerciales.
@@ -38,6 +40,8 @@ En tant que responsable des ventes, vous devez identifier les tendances des donn
 
 1. Passez en revue la réponse de Copilot et voyez si vous souhaitez ajouter le graphique croisé dynamique à une nouvelle feuille.
 
+1. Si vous avez ajouté un nouveau graphique croisé dynamique, sélectionnez **Revenir aux données** pour revenir à la feuille 1.
+   
 1. Pour obtenir un aperçu des mois avec les ventes les plus fructueuses, saisissez le prompt suivant :
 
     +++Met en évidence les trois mois avec le chiffre d’affaires total le plus élevé.+++
@@ -56,9 +60,11 @@ En tant que responsable des ventes, vous devez identifier les tendances des donn
 
 1. Copilot affiche le graphique à barres. Sélectionnez **Ajouter à une nouvelle feuille**.
 
-    Les mois estivaux peuvent connaître un écart de ventes important. Pour comprendre le type de thé qui se vend le mieux, vous pouvez demander à Copilot de déterminer quelle catégorie de produit a obtenu les meilleurs résultats globaux en saisissant le prompt suivant :
+1. Une fois que vous avez examiné les résultats du graphique à barres, sélectionnez **Revenir aux données** pour revenir à la feuille 1.
+   
+Les mois estivaux peuvent connaître un écart de ventes important. Pour comprendre le type de thé qui se vend le mieux, vous pouvez demander à Copilot de déterminer quelle catégorie de produit a obtenu les meilleurs résultats globaux en saisissant le prompt suivant :
 
-    +++Résume le chiffre d’affaires des ventes (unités) de chaï artisanal et de chaï prêt à l’emploi au cours de l’été.+++
+    +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.+++
 
 #### Exercice 4 - Calculer le chiffre d’affaires total
 
@@ -98,7 +104,7 @@ Enfin, résumons les insights clés de votre analyse. Ces insights vous aident �
 
 Une fois que vous avez collecté des insights sur les tendances du marché, vous pouvez partager les informations avec vos parties prenantes. Voici comment Copilot pour Outlook peut vous aider :
 
-1. **Copiez** la réponse générée par Copilot pour Excel.
+1. **Copiez** la réponse texte générée par Copilot pour Excel.
 
 1. Ouvrez Microsoft Outlook et sélectionnez **Nouveau courrier**.
 
