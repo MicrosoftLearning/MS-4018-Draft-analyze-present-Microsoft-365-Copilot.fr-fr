@@ -14,29 +14,22 @@ Suivez les étapes ci-dessous pour charger tous les fichiers requis dans **OneDr
 
 1. Connectez-vous à la machine virtuelle fournie par votre fournisseur de locataire en tant que compte **Administrateur** local avec le mot de passe `Pa55w.rd`.
 
-2. Dans la barre des tâches Windows, sélectionnez **Microsoft Edge**.
+2. Ouvrir l’application **OneDrive** en saisissant **OneDrive** dans la barre de recherche de Windows
 
-3. Dans la barre d’adresse, entrez `https://onedrive.live.com/login` .
+3. À l’invite **Adresse e-mail**, saisir userx@yourtenant.onmicrosoft.com (fournie par votre fournisseur de client) et sélectionner **Se connecter**
 
-4. Sous **Bienvenue dans Microsoft 365**, sélectionnez **Se connecter**.
+4. Dans l’écran **Entrer le mot de passe**, saisissez Mot de passe 1 (fourni par votre fournisseur de locataire), puis sélectionnez **Se connecter**.
 
-5. À l’**invite de connexion**, saisissez userx@yourtenant.onmicrosoft.com (fournis par votre fournisseur de locataire), puis sélectionnez **Suivant**.
+5. Si une invite **Se connecter automatiquement à toutes les applications de bureau et à tous les sites web sur cet appareil ?** s’affiche, sélectionner **Oui, toutes les applications**
 
-6. Dans l’écran **Entrer le mot de passe**, saisissez Mot de passe 1 (fourni par votre fournisseur de locataire), puis sélectionnez **Se connecter**.
+6. Ouvrir votre dossier OneDrive
+   
+7. Dans une nouvelle fenêtre de **l’Explorateur de fichiers**, sélectionner **Ce PC** > **Disque local (C:)** et ouvrir le dossier **MS-4018 ResourceFiles**
 
-7. Si vous êtes invité à **rester connecté**, sélectionnez **Ne plus afficher**, puis **Oui**.
+8. Sélectionner tous les fichiers du dossier **MS-4018 ResourceFiles**, puis les faire glisser vers votre dossier OneDrive
 
-8. Dans **OneDrive**, dans le coin supérieur gauche, sélectionnez **+** (ajouter) > **Chargement de fichiers**.
+9. Une fois le téléversement terminé, vous devriez voir **3 éléments téléversés dans Mes fichiers** au centre inférieur de l’écran
 
-    ![Capture d’écran de l’ajout d’un nouveau fichier](../Labs/Media/add_new.png)
-
-9. Dans l’**Explorateur de fichiers**, sélectionnez **Ce PC** > **Disque local (C:)** et ouvrez le dossier **ResourceFiles**.
-
-10. Sélectionnez tous les fichiers du dossier **ResourceFiles**, puis sélectionnez **Ouvrir** pour les charger dans **OneDrive**.
-
-11. Une fois le chargement terminé, vous devriez voir **29 éléments chargés dans Mes fichiers** en bas au centre de l’écran.
-
-12. Laissez **Edge** ouvert et passez à la tâche suivante.
 
 ### Référencement de fichiers
 
