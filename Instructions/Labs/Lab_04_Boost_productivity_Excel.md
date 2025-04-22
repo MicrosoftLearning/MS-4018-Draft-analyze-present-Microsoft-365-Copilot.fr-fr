@@ -14,11 +14,11 @@ Tout au long de ce labo, nous allons créer des prompts Microsoft 365 Copilot 
 
 Pour avoir une idée des tendances du marché, vous devez d’abord comprendre les performances globales des produits chaï de Contoso. La première étape consiste à obtenir une vue d’ensemble des données et à identifier les mesures clés qui peuvent guider votre analyse.
 
-1. Ouvrez le fichier d’exemple que vous avez téléchargé.
+1. Ouvrez le fichier exemple que vous avez téléchargé depuis votre OneDrive.
 
 1. Sélectionnez l’icône **Copilot** dans l’**accueil** pour ouvrir le volet Copilot.
 
-1. Saisissez le prompt suivant :
+1. Entrez l’invite suivante :
 
     +++Résume le jeu de données et fournit une vue d’ensemble des mesures clés.+++
 
@@ -26,7 +26,7 @@ Pour avoir une idée des tendances du marché, vous devez d’abord comprendre l
 
 1. Sélectionnez **Ajouter à une nouvelle feuille** pour inclure ces données dans votre classeur Excel.
 
-1. Passez en revue le tableau. Lorsque vous avez terminé, sélectionnez **Revenir aux données** pour revenir à la feuille 1.
+1. Vérifiez le tableau. Lorsque vous avez terminé, sélectionnez **Revenir aux données** pour revenir à la feuille 1.
 
 #### Exercice 2 - Identifier les tendances des ventes
 
@@ -40,7 +40,7 @@ En tant que responsable des ventes, vous devez identifier les tendances des donn
 
 1. Passez en revue la réponse de Copilot et voyez si vous souhaitez ajouter le graphique croisé dynamique à une nouvelle feuille.
 
-1. Si vous avez ajouté un nouveau graphique croisé dynamique, sélectionnez **Revenir aux données** pour revenir à la feuille 1.
+1. Si vous avez ajouté un nouveau PivotChart, passez en revue le graphique, puis sélectionnez **Revenir aux données** pour revenir à la feuille 1.
    
 1. Pour obtenir un aperçu des mois avec les ventes les plus fructueuses, saisissez le prompt suivant :
 
@@ -64,7 +64,7 @@ En tant que responsable des ventes, vous devez identifier les tendances des donn
    
 Les mois estivaux peuvent connaître un écart de ventes important. Pour comprendre le type de thé qui se vend le mieux, vous pouvez demander à Copilot de déterminer quelle catégorie de produit a obtenu les meilleurs résultats globaux en saisissant le prompt suivant :
 
-    +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.+++
+   +++Résume le chiffre d’affaires des ventes (unités) de chaï artisanal et de chaï prêt à l’emploi au cours de l’été.+++
 
 #### Exercice 4 - Calculer le chiffre d’affaires total
 
@@ -98,13 +98,13 @@ Enfin, résumons les insights clés de votre analyse. Ces insights vous aident �
 
 1. Dans le volet Copilot ouvert, saisissez le prompt suivant :
 
-    +++Résume les insights clés à partir de l’analyse des données des tendances du marché du thé chaï de Contoso.+++
+    +++Fournit un résumé des principaux enseignements tirés de l’analyse des données sur les tendances du marché du Contoso Chai Tea.+++
 
 #### Exercice 7 - Envoyer vos insights à l’équipe
 
 Une fois que vous avez collecté des insights sur les tendances du marché, vous pouvez partager les informations avec vos parties prenantes. Voici comment Copilot pour Outlook peut vous aider :
 
-1. **Copiez** la réponse texte générée par Copilot pour Excel.
+1. **Copiez** la réponse générée par Copilot pour Excel.
 
 1. Ouvrez Microsoft Outlook et sélectionnez **Nouveau courrier**.
 

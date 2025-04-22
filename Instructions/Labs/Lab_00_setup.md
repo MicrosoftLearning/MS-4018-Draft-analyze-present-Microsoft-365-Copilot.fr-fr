@@ -14,9 +14,9 @@ Suivez les étapes ci-dessous pour charger tous les fichiers requis dans **OneDr
 
 1. Connectez-vous à la machine virtuelle fournie par votre fournisseur de locataire en tant que compte **Administrateur** local avec le mot de passe `Pa55w.rd`.
 
-2. Ouvrir l’application **OneDrive** en saisissant **OneDrive** dans la barre de recherche de Windows
+2. Ouvrez l’application **OneDrive** en entrant **OneDrive** dans la barre de recherche Windows.
 
-3. À l’invite **Adresse e-mail**, saisir userx@yourtenant.onmicrosoft.com (fournie par votre fournisseur de client) et sélectionner **Se connecter**
+3. À l’invite **Adresse e-mail**, saisissez userx@yourtenant.onmicrosoft.com(fournie par votre fournisseur de client) et sélectionnez **Se connecter**
 
 4. Dans l’écran **Entrer le mot de passe**, saisissez Mot de passe 1 (fourni par votre fournisseur de locataire), puis sélectionnez **Se connecter**.
 
@@ -24,11 +24,11 @@ Suivez les étapes ci-dessous pour charger tous les fichiers requis dans **OneDr
 
 6. Ouvrir votre dossier OneDrive
    
-7. Dans une nouvelle fenêtre de **l’Explorateur de fichiers**, sélectionner **Ce PC** > **Disque local (C:)** et ouvrir le dossier **MS-4018 ResourceFiles**
+7. Dans une nouvelle fenêtre de **l’Explorateur de fichiers**, sélectionner **Ce PC** > **Disque local (C:)** et ouvrir le dossier **ResourceFiles**
 
-8. Sélectionner tous les fichiers du dossier **MS-4018 ResourceFiles**, puis les faire glisser vers votre dossier OneDrive
+8. Sélectionnez tous les fichiers du dossier **ResourceFiles**, puis les faire glisser vers votre dossier OneDrive
 
-9. Une fois le téléversement terminé, vous devriez voir **3 éléments téléversés dans Mes fichiers** au centre inférieur de l’écran
+9. Une fois le chargement terminé, vous devriez voir **29 éléments chargés dans Mes fichiers** en bas au centre de l’écran.
 
 
 ### Référencement de fichiers

@@ -4,7 +4,7 @@ Imaginez que vous êtes responsable chez Contoso. Votre équipe s’appuie sur u
 
 #### Exercice 1 - Écrire un message attrayant pour présenter votre idée
 
-1. Ouvrez Microsoft Teams en accédant à l’URL suivante : [https://teams.microsoft.com](https://teams.microsoft.com).
+1. Ouvrez Microsoft Teams en accédant à l’URL suivante : [teams.microsoft.com](https://teams.microsoft.com) ou via l’application de bureau.
 
 1. Pour commencer, créez une équipe dans la conversation de votre équipe pour cette conversation. Sélectionnez **Nouvelle équipe** dans le menu déroulant Conversation.
 
@@ -16,9 +16,9 @@ Imaginez que vous êtes responsable chez Contoso. Votre équipe s’appuie sur u
 
 1. Sélectionnez **Démarrer une publication** pour ouvrir la fenêtre de conversation.
 
-1. Écrivez votre message dans la zone située en bas de la conversation ou du canal. Saisissez +++Bonjour à tous ! J’ai réfléchi à Contoso Connect et comment nous pouvons rendre le lancement du produit plus intéressant pour nos clients. J’ai des idées, et je veux savir ce que vous pensez. Selon vous, comment intéresser et préparer nos clients à Connect ?+++
+1. Écrivez votre message dans la zone située en bas de la conversation ou du canal. Copiez et collez le texte suivant dans la boîte de dialogue : Bonjour à tous ! J’ai réfléchi à Contoso Connect et comment nous pouvons rendre le lancement du produit plus intéressant pour nos clients. J’ai des idées, et je veux savir ce que vous pensez. Selon vous, comment intéresser et préparer nos clients à Connect ?
 
-1. Sélectionnez l’icône **Réécrire avec Copilot** en bas de la zone de message.
+1. Avant de publier le message, sélectionnez l’icône **Réécrire avec Copilot** en bas de la zone de message
 
 1. Choisissez l’option **Réécrire** pour générer une autre version de votre message qui améliore sa grammaire et son style. Vous pouvez réécrire votre message jusqu’à 10 fois, en générant chaque fois une nouvelle version. Utilisez les flèches gauche et droite sous le texte pour parcourir les versions.
 
@@ -38,7 +38,7 @@ L’équipe reçoit votre message et a hâte de contribuer au projet ! Tout le 
 
 Vous souhaitez maintenant planifier une réunion pour réfléchir à certains commentaires avec votre équipe. Vous pouvez utiliser Copilot pour Outlook afin de trouver le meilleur moment en fonction de la disponibilité de votre équipe et de rédiger le corps de l’invitation à la réunion pour inclure les points clés auxquels vous avez demandé à Copilot de répondre à partir de la conversation de votre réunion.
 
-1. Ouvrez Microsoft Outlook en accédant à l’URL suivante : [https://outlook.office.com](https://outlook.office.com).
+1. Ouvrez Microsoft Outlook à partir de votre navigateur [outlook.office.com](https://outlook.office.com) ou application de bureau.
 
 1. Dans le ruban **Accueil**, sélectionnez **Copilot** pour ouvrir le volet Copilot.
 
@@ -54,7 +54,7 @@ Vous souhaitez maintenant planifier une réunion pour réfléchir à certains co
 
     +++pour discuter du lancement du produit à venir, vérifier la chronologie du projet et attribuer des tâches.+++
 
-    Une fois terminé, sélectionnez **Envoyer** ou appuyez sur la touche Entrée de votre clavier.
+    Une fois terminé, sélectionnez **Générer** ou appuyez sur Entrée depuis votre clavier.
 
 1. Copilot créera un brouillon de l’invitation à la réunion. Passez en revue la suggestion, mais ne sélectionnez pas **Conserver**. Saisissez plutôt le prompt suivant :
 

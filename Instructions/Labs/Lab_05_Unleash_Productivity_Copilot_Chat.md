@@ -9,7 +9,9 @@ Imaginez que vous passez un entretien pour un poste chez Contoso, une entreprise
 
 Utilisez Copilot Chat pour Teams afin de recueillir des informations sur l’interlocuteur et son rôle. Cette recherche vous aide à mieux comprendre la personne avec qui vous parlerez, ainsi que ses responsabilités. C’est toujours bien de connaître un peu la personne de l’autre côté de la table !
 
-1. Ouvrez Microsoft Teams et sélectionnez l’icône Copilot Chat sur le côté gauche de l’écran.
+1.  Ouvrez Microsoft Teams en accédant à l’URL suivante : [teams.microsoft.com](https://teams.microsoft.com) ou via l’application de bureau.
+
+1.  Sélectionnez l’icône Copilot Chat sur le côté gauche de l’écran.
 
 1. Assurez-vous que le bouton bascule en haut de l’écran est défini sur **Web**.
 
@@ -57,11 +59,11 @@ Maintenant que vous avez une idée des questions potentielles, réfléchissez à
 
 #### Exercice 5 - Créer un document FAQ
 
-Ces réponses sont excellentes, et vous vous sentez confiant avant votre entretien. Nous allons maintenant créer une source unique de vérité à laquelle nous pouvons nous référer ultérieurement. Utilisez Copilot pour Word afin de compiler les questions et réponses dans un document FAQ.
+Ces réponses sont excellentes, et vous vous sentez confiant avant votre entretien. Nous allons maintenant créer une source unique de vérité à laquelle nous pouvons nous référer ultérieurement. Utilisez Copilot pour compiler les questions et réponses dans un document Word de FAQ.
 
 1. Dans la même fenêtre Copilot Chat, demandez à Copilot : 
 
-    +++Crée un document Word avec cette sortie.+++
+    +++Crée un document Word .docx avec ce contenu.+++
 
     Copilot génère un nouveau document Word intitulé **FAQ Document**.
 

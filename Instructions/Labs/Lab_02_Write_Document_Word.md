@@ -11,26 +11,9 @@ Tout au long de ce labo, nous allons créer des prompts Microsoft 365 Copilot 
 
 [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 
-#### Exercice 1 (facultatif) : importer des notes 
 
-1. Ouvrez Microsoft Word et créez un document.
 
-1. Activez Copilot en sélectionnant le bouton Copilot dans l’onglet **Accueil**.
-
-    > [!NOTE]
-    > Si vous ne souhaitez pas importer de notes, passez à **Rédiger votre contenu**.
-
-1. Dans le volet Copilot, entrez l’invite suivante :
-
-    +++Rédige une mise à jour du rapport de projet en fonction des notes sur le thé chaï Mystic Spice Premium dans OneNote.+++
-
-    Copilot extrait les informations demandées à partir de OneNote et rédige le début du rapport dans le volet Copilot.
-
-1. Sélectionnez l’option **Insérer** pour copier ce texte dans le document Word.
-
-C’est un bon début, mais la présentation d’informations basées sur des notes ne fonctionnera pas. Voyons comment Copilot pour Word peut vous aider à créer un rapport à partager avec vos parties prenantes.
-
-#### Exercice 2 - Rédiger votre contenu
+#### Exercice 1 - Rédiger votre contenu
 
 Nous allons créer un rapport de projet à l’aide de l’analyse du marché que vous avez déjà réalisée. Ensuite, nous pouvons modifier ce fichier pour obtenir le contenu dont nous avons besoin pour notre rapport.
 
@@ -40,10 +23,12 @@ Nous allons créer un rapport de projet à l’aide de l’analyse du marché qu
 
 1. Entrez l’invite suivante :
 
-    +++Crée un rapport de projet comprenant un résumé, une introduction, des objectifs de projet et une discussion. Utilise le document associé comme ressource de contenu. /Market Analysis Report for Mystic Spice Premium Chai Tea.docx.+++
+    +++Crée un rapport de projet comprenant un résumé, une introduction, des objectifs de projet et une discussion. Utilise le document lié comme source de contenu.+++
 
-1. Ajoutez la référence de document à votre invite en entrant manuellement une barre oblique suivie du nom du document : **/Promotion Plan for Chai Tea in Latin America.docx**. Vous pouvez également sélectionner le fichier dans la liste déroulante une fois qu’il est disponible dans OneDrive.
+1. Ajoutez la référence de document à votre invite en entrant manuellement une barre oblique suivie du nom du document : **/Promotion Plan for Chai Tea in Latin America.docx**. Autrement, vous pouvez sélectionner **Référencer un fichier** et choisir le fichier dans la liste déroulante une fois qu’il est disponible dans OneDrive.
    
+1. Sélectionnez **Générer**.
+
 1. Passez en revue le contenu et sélectionnez **Conserver**.
 
 1. Lorsque vous examinez le contenu de votre document, vous pouvez constater que certaines parties doivent être modifiées ou réécrites. La section Description du produit semble être assez courte et technique. Nous allons modifier le texte afin de le rendre plus attrayant pour nos lecteurs.
@@ -63,7 +48,7 @@ Nous allons créer un rapport de projet à l’aide de l’analyse du marché qu
 
 1. Passez en revue les options de réécriture, choisissez celle que vous préférez, puis sélectionnez **Remplacer**.
 
-#### Exercice 3 - Convertir du texte en tableau
+#### Exercice 2 - Convertir du texte en tableau
 
 Bien que le contenu de votre document soit exact, vous devez prendre en compte sa lisibilité. Une section serait-t-elle plus efficace si elle était présentée sous la forme d’un tableau ? Copilot peut facilement convertir du texte en tableau à l’aide d’une invite.
 
@@ -85,11 +70,11 @@ Voyons cette transformation en action.
 
 1. Passez en revue le format du tableau et apportez les ajustements nécessaires.
 
-#### Exercice 4 - Résumer votre document
+#### Exercice 3 - Résumer votre document
 
 Lorsque vous terminez votre document, vous souhaitez vous assurer que vos points clés sont clairement présentés. Pour ce faire, vous pouvez consulter un résumé du document. De même, si vous recevez un document Word volumineux que vous n’avez pas le temps de lire dans son intégralité, la fonctionnalité de résumé est essentielle. Nous allons créer un résumé à la fin de notre document.
 
-1. Dans le volet Copilot, entrez l’invite suivante :
+1. Ouvrez le volet Copilot et entrez l’invite suivante :
 
     +++Résume ce document. Met en évidence les trois principaux points soulevés.+++
 
