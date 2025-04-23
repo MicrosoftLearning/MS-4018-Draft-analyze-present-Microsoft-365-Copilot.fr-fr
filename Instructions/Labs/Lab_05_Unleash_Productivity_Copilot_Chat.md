@@ -51,7 +51,7 @@ Maintenant que vous avez une idée des questions potentielles, réfléchissez à
 
 1. Dans le même Copilot Chat, demandez à Copilot :
 
-    +++Rédige des réponses aux questions suivantes : [copiez la liste des questions et copiez-la ici].+++
+    +++Rédige des réponses aux questions suivantes : [copiez-collez la liste des questions ici.].+++
 
     Étant donné que Copilot Chat est une expérience itérative, elle prend en compte le contexte des interactions de conversation précédentes dans la même fenêtre.
 
@@ -59,23 +59,23 @@ Maintenant que vous avez une idée des questions potentielles, réfléchissez à
 
 #### Exercice 5 - Créer un document FAQ
 
-Ces réponses sont excellentes, et vous vous sentez confiant avant votre entretien. Nous allons maintenant créer une source unique de vérité à laquelle nous pouvons nous référer ultérieurement. Utilisez Copilot pour compiler les questions et réponses dans un document Word de FAQ.
+Ces réponses sont excellentes, et vous vous sentez confiant avant votre entretien. Nous allons maintenant créer une source unique de vérité à laquelle nous pouvons nous référer ultérieurement. Utilisez Copilot pour Word afin de compiler les questions et réponses dans un document FAQ.
 
-1. Dans la même fenêtre Copilot Chat, demandez à Copilot : 
+1. Dans le même Copilot Chat, demandez à Copilot : 
 
-    +++Crée un document Word .docx avec ce contenu.+++
+    +++Crée un document Word avec ce contenu.+++
 
-    Copilot génère un nouveau document Word intitulé **FAQ Document**.
+    Copilot génère un nouveau document Word intitulé **Document FAQ**.
 
 1. Ouvrez ce document pour le passer en revue.
 
 1. Activez la modification pour vérifier et mettre à jour le document si nécessaire. 
 
-1. Sélectionnez **Fichier > Enregistrer sous**. Parcourez et accédez à votre dossier OneDrive.
+1. Sélectionnez **Fichier > Enregistrer sous**. Parcourez et accédez à votre dossier OneDrive.
 
-1. Enregistrez le document en tant que **FAQ Document**.
+1. Enregistrez le document en tant que **Document FAQ**.
    
-#### Exercice 6 (facultatif) : envoyer un e-mail de remerciement à l’aide de Copilot pour Outlook
+#### Exercice 6 (facultatif) : envoyer un e-mail de remerciement à l’aide de Copilot pour Outlook.
 
 1. Ouvrez Outlook et sélectionnez **Nouvel e-mail** pour commencer à composer votre note de remerciement.
 

@@ -6,17 +6,17 @@ Imaginez que vous êtes responsable chez Contoso. Votre équipe s’appuie sur u
 
 1. Ouvrez Microsoft Teams en accédant à l’URL suivante : [teams.microsoft.com](https://teams.microsoft.com) ou via l’application de bureau.
 
-1. Pour commencer, créez une équipe dans la conversation de votre équipe pour cette conversation. Sélectionnez **Nouvelle équipe** dans le menu déroulant Conversation.
+1. Pour commencer, créez une nouvelle équipe (Team) dans la conversation instantanée de votre équipe pour cette conversation. Sélectionnez **Nouvelle équipe** dans le menu déroulant Discussion.
 
-    - Ajoutez l’équipe : +++Personnes et culture+++
+    - Ajouter l’équipe : +++Participants et Culture+++
     - Description : laissez vide
-    - Type d’équipe : **privée**
+    - Type d’équipe : **Privée**
     - Nom du canal : +++Contoso Connect+++
     - Ajouter des membres : sélectionnez **Ignorer**
 
 1. Sélectionnez **Démarrer une publication** pour ouvrir la fenêtre de conversation.
 
-1. Écrivez votre message dans la zone située en bas de la conversation ou du canal. Copiez et collez le texte suivant dans la boîte de dialogue : Bonjour à tous ! J’ai réfléchi à Contoso Connect et comment nous pouvons rendre le lancement du produit plus intéressant pour nos clients. J’ai des idées, et je veux savir ce que vous pensez. Selon vous, comment intéresser et préparer nos clients à Connect ?
+1. Écrivez votre message dans la zone située en bas de la conversation ou du canal. Copiez et collez l’invite suivante dans votre boîte de dialogue d’invite Copilot : Hi Team ! J’ai réfléchi à Contoso Connect et comment nous pouvons rendre le lancement du produit plus intéressant pour nos clients. J’ai des idées, et je veux savir ce que vous pensez. Selon vous, comment intéresser et préparer nos clients à Connect ?
 
 1. Avant de publier le message, sélectionnez l’icône **Réécrire avec Copilot** en bas de la zone de message
 
@@ -38,7 +38,7 @@ L’équipe reçoit votre message et a hâte de contribuer au projet ! Tout le 
 
 Vous souhaitez maintenant planifier une réunion pour réfléchir à certains commentaires avec votre équipe. Vous pouvez utiliser Copilot pour Outlook afin de trouver le meilleur moment en fonction de la disponibilité de votre équipe et de rédiger le corps de l’invitation à la réunion pour inclure les points clés auxquels vous avez demandé à Copilot de répondre à partir de la conversation de votre réunion.
 
-1. Ouvrez Microsoft Outlook à partir de votre navigateur [outlook.office.com](https://outlook.office.com) ou application de bureau.
+1. Ouvrez Microsoft Outlook à partir de votre navigateur [outlook.office.com](https://outlook.office.com) ou application de bureau.
 
 1. Dans le ruban **Accueil**, sélectionnez **Copilot** pour ouvrir le volet Copilot.
 
