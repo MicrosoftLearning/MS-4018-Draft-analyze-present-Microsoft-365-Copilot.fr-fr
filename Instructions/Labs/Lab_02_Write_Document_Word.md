@@ -11,9 +11,26 @@ Tout au long de ce labo, nous allons créer des prompts Microsoft 365 Copilot 
 
 [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 
+#### Exercice 1 : importer des notes (facultatif) 
 
+1. Lancez Microsoft Word depuis votre navigateur [word.new](https://word.new) ou utilisez l’application de bureau et créez un nouveau document.
 
-#### Exercice 1 - Rédiger votre contenu
+1. Activez Copilot en sélectionnant le bouton Copilot dans l’onglet **Accueil**.
+
+    > [!NOTE]
+    > Si vous ne souhaitez pas importer de notes, passez à **Rédiger votre contenu**.
+
+1. Dans le volet Copilot, entrez l’invite suivante :
+
+    +++Rédige une mise à jour du rapport de projet en fonction des notes sur le thé chaï Mystic Spice Premium dans OneNote.+++
+
+    Copilot extrait les informations demandées à partir de OneNote et rédige le début du rapport dans le volet Copilot.
+
+1. Sélectionnez l’option **Insérer** pour copier ce texte dans le document Word.
+
+C’est un bon début, mais la présentation d’informations basées sur des notes ne fonctionnera pas. Voyons comment Copilot pour Word peut vous aider à créer un rapport à partager avec vos parties prenantes.
+
+#### Exercice 2 - Rédiger votre contenu
 
 Nous allons créer un rapport de projet à l’aide de l’analyse du marché que vous avez déjà réalisée. Ensuite, nous pouvons modifier ce fichier pour obtenir le contenu dont nous avons besoin pour notre rapport.
 
@@ -23,9 +40,9 @@ Nous allons créer un rapport de projet à l’aide de l’analyse du marché qu
 
 1. Entrez l’invite suivante :
 
-    +++Créer un rapport de projet comprenant un résumé exécutif, une introduction, une description du produit, les objectifs du projet et une discussion.+++ Utilisez le document lié comme source de contenu.
+    +++Crée un rapport de projet incluant un résumé exécutif, une introduction, les objectifs du projet et une discussion. Utilise le document lié comme source de contenu.+++
 
-1. Ajoutez la référence de document à votre invite en entrant manuellement une barre oblique suivie du nom du document : **/Promotion Plan for Chai Tea in Latin America.docx**. Vous pouvez également sélectionner **Référencer un fichier** et choisir le fichier dans la liste déroulante une fois qu’il est disponible dans OneDrive.
+1. Ajoutez la référence au document dans votre invite en saisissant manuellement une barre oblique suivie du nom du document : **/Promotion Plan for Chai Tea in Latin America.docx**. Autrement, vous pouvez sélectionner **Référencer un fichier** et choisir le fichier dans la liste déroulante une fois qu’il est disponible dans OneDrive.
    
 1. Sélectionnez **Générer**.
 
@@ -48,7 +65,7 @@ Nous allons créer un rapport de projet à l’aide de l’analyse du marché qu
 
 1. Passez en revue les options de réécriture, choisissez celle que vous préférez, puis sélectionnez **Remplacer**.
 
-#### Exercice 2 - Convertir le texte en tableau
+#### Exercice 3 - Convertir du texte en tableau
 
 Bien que le contenu de votre document soit exact, vous devez prendre en compte sa lisibilité. Une section serait-t-elle plus efficace si elle était présentée sous la forme d’un tableau ? Copilot peut facilement convertir du texte en tableau à l’aide d’une invite.
 
@@ -70,15 +87,15 @@ Voyons cette transformation en action.
 
 1. Passez en revue le format du tableau et apportez les ajustements nécessaires.
 
-#### Exercice 3 - Résumer votre document
+#### Exercice 4 - Résumer votre document
 
 Lorsque vous terminez votre document, vous souhaitez vous assurer que vos points clés sont clairement présentés. Pour ce faire, vous pouvez consulter un résumé du document. De même, si vous recevez un document Word volumineux que vous n’avez pas le temps de lire dans son intégralité, la fonctionnalité de résumé est essentielle. Nous allons créer un résumé à la fin de notre document.
 
-1. Ouvrez le volet Copilot et entrez l’invite suivante :
+1. Ouvrez le volet Copilot et saisissez l’invite suivante :
 
     +++Résume ce document. Met en évidence les trois principaux points soulevés.+++
 
-1. Examinez le résumé généré, puis sélectionnez **Insérer** si vous souhaitez inclure l’intégralité du résumé dans votre document. Vous pouvez également mettre en surbrillance n’importe quelle partie du texte, puis la copier et la coller dans votre document.
+1. Passez en revue le résumé généré et sélectionnez **Insérer** si vous souhaitez inclure le résumé dans votre document. Vous pouvez également mettre en surbrillance n’importe quelle partie du texte, puis la copier et la coller dans votre document.
 
 > [!IMPORTANT]
 > Le texte généré par Copilot est inséré à l’emplacement de votre curseur dans le document. Assurez-vous d’avoir parcouru le document du début à la fin avant d’insérer le contenu.
